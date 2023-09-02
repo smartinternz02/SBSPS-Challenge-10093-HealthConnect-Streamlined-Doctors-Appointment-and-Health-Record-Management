@@ -71,3 +71,8 @@ HealthConnect: Streamlined Doctors Appointment and Health Record Management
 ### Contact
 
 ![contact](https://github.com/ayeSha-git24/ibm_hackchallenge-HealthConnect-Health_hive-2023/blob/main/Final%20Output%20Screenshots/contact.png)
+
+
+### Data  Storage Dashboard
+
+![Data Storage](https://github.com/smartinternz02/SBSPS-Challenge-10093-HealthConnect-Streamlined-Doctors-Appointment-and-Health-Record-Management/blob/main/Final%20Output%20Screenshots/Screenshot%20(30).png)
